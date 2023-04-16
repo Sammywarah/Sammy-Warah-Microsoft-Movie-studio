@@ -1,13 +1,16 @@
 # Sammy-Warah-Microsoft-Movie-studio
 #Microsoft Movie Analysis
 This is a project analyzing data on movies from the Microsoft company. The data was obtained from a dataset and consists of various features such as title, genre, budget, gross revenue, and more.
+
 ##Dataset
 The datasets used in this project is called "bom.movie_gross, "tmdb.movies", "tn.movie_budgets" and can be found on Box Office Mojo(https://www.boxofficemojo.com/), TheMovieDB(https://www.themoviedb.org/) and The Numbers(https://www.the-numbers.com/)
+
 ##Analysis
 The analysis was performed using Python programming language and various libraries such as Pandas and Matplotlib. The following steps were taken to analyze the data:
 1.	Data cleaning and preprocessing: the dataset was cleaned and preprocessed to remove any missing or incorrect values, and to convert data types as necessary.
 2.	Exploratory data analysis: various features of the data were analyzed and visualized to understand their distribution and relationships with other features.
 5.	Data visualization: the data was visualized using various plots and charts to communicate insights.
+
 ##Results
 The analysis revealed several interesting findings, including:
 1.	The most common movie genre in the dataset is "science-fiction", "Action", "superhero", and "family".
@@ -15,6 +18,7 @@ The analysis revealed several interesting findings, including:
 3.	There is a positive correlation between budget and gross revenue, indicating that higher budget movies tend to generate more revenue.
 4.	Foreign movies tend to have higher gross revenue than domestic movies.
 5.	The top 5 movies by gross revenue in the dataset are all foreign movies.
+
 ##Recommendations
 Based on the findings of this analysis, we make the following recommendations to Microsoft:
 Invest more in producing movies with high IMDb ratings: Our analysis shows that there is a strong positive correlation between IMDb ratings and domestic and worldwide gross earnings. Therefore, Microsoft can focus on producing high-quality movies that are likely to receive positive reviews from audiences.
@@ -24,6 +28,7 @@ Expand to international markets: Our analysis also shows that foreign gross can 
 Diversify the movie genres produced: Our analysis shows that certain movie genres are more profitable than others. By diversifying the types of movies produced, Microsoft can reduce its risk exposure to fluctuations in demand for any particular genre and increase the likelihood of producing successful movies.
 
 Overall, these recommendations are aimed at helping Microsoft maximize its profitability and competitiveness in the highly competitive movie industry.
+
 ##Conclusion
 Based on the analysis of the movie data, we can draw a few conclusions;
 Firstly, the top 5 highest-grossing movies are all part of major franchises, indicating that established brands play a significant role in box office success.
