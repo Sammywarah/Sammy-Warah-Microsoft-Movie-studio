@@ -1,4 +1,10 @@
 # Sammy-Warah-Microsoft-Movie-studio
+# Overview
+The objective of this project is to provide actionable insights to Microsoft, a new movie studio that wants to create successful movies. The analysis will focus on exploring the types of films that are currently performing well at the box office and providing recommendations on what types of movies the studio should create.
+
+# Business Understanding
+Microsoft, a new movie studio, lacks knowledge and experience in creating successful movies. In order to establish itself as a competitive player in the movie industry, Microsoft needs to understand the types of films that are currently performing well at the box office and the factors that contribute to their success. By doing so, the studio can develop a strategy to create successful movies that resonate with audiences and achieve high box office returns. The business problem, therefore, is to provide Microsoft with actionable insights and recommendations that will enable it to create successful movies and establish itself as a successful movie studio in the industry.
+
 # Microsoft Movie Analysis
 This is a project analyzing data on movies from the Microsoft company. The data was obtained from a dataset and consists of various features such as title, genre, budget, gross revenue, and more.
 
